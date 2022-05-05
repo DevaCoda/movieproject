@@ -1,0 +1,17 @@
+{
+  "name": "heticinema",
+  "version": "1.0.0",
+  "description": "Movie-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" 1",
+    "serve": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}

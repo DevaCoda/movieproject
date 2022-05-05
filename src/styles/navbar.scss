@@ -1,0 +1,35 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+  transition-timing-function: ease-in;
+  transition: all 2s;
+  background-color: #111;
+}
+.heticinemas {
+  p {
+    font-size: 15px;
+    color: #39fdb1;
+  }
+}
+.nav__left {
+  margin-left: 6.25rem;
+  display: flex;
+  align-items: center;
+}
+.nav_logo {
+  width: 7.5rem;
+}
+.nav__right {
+  position: fixed;
+  right: 30px;
+  display: flex;
+  margin-right: 10px;
+}
+.nav_avatar {
+  width: 2.1875rem;
+}

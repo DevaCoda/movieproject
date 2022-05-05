@@ -2,7 +2,6 @@
   "name": "heticinema",
   "version": "1.0.0",
   "description": "Movie-project",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" 1",
     "serve": "parcel src/index.html",
